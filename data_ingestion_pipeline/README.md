@@ -65,15 +65,6 @@ It provides functionality to upload documents to Blob Storage.
 This Chunking.py file is designed to demonstrate different methods for splitting large text documents into smaller, manageable chunks. This is particularly useful for processing and analyzing large texts, such as PDFs, in a more efficient manner. Here’s a summary of the file and its importance:
 This code is for your understanding and Chunking startegy is implemented during the process of Indexing (Step#4: Indexing)
 
-**Importance of the File**
-
-   ***Efficient Text Processing:*** By breaking down large documents into smaller chunks, it becomes easier to handle and analyze the text, especially for tasks like embedding generation and similarity calculations.
-
-   ***Improved Performance:*** Smaller chunks can be processed faster and more efficiently by machine learning models, leading to better performance in tasks like semantic search and document classification.
-
-   ***Enhanced Accuracy:*** Chunking helps in maintaining the context and coherence of the text, which is crucial for accurate embeddings and subsequent analysis.
-   Methods Demonstrated
-
 This file demostrates below 3 types of chunking.
 
 **1. Semantic Chunking:**
