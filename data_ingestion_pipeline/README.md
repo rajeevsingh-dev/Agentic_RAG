@@ -2,8 +2,7 @@
 
 
 This folder contains implmentation of Data Ingestion pipleine for Agentic RAG.
-or
-This Folder contains scripts for implementing Indexing logic.
+
 
 Its the Pre-requities before you start setting up Agentic RAG, it helps you to get your Data uploaded to Azure Blob storage, creates chunking, embedding, create Azure AI Search Index and perform the Indexing for the Search Index.
 
